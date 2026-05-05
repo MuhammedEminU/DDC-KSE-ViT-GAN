@@ -218,7 +218,7 @@ If you use this code in your research, please cite:
             with Swin Transformers and GAN Refinement},
   author = {Muhammed},
   year   = {2025},
-  url    = {https://github.com/YOUR_USERNAME/DDC-KSE-ViT-GAN}
+  url    = {(https://github.com/MuhammedEminU/DDC-KSE-ViT-GAN)}
 }
 ```
 
